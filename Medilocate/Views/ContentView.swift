@@ -13,8 +13,8 @@ struct ContentView: View {
     
     // Define global vars
     struct Key {
-        static let backend_path = "https://f541-129-59-122-27.ngrok-free.app/api/"
-        //static let backend_path = "https://medilocatev2.onrender.com/api/"
+//        static let backend_path = "https://f541-129-59-122-27.ngrok-free.app/api/"
+        static let backend_path = "https://medilocatev2.onrender.com/api/"
     }
     
     var body: some View {
