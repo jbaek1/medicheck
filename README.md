@@ -1,59 +1,48 @@
-# 📱 Medilocate
-## 🚀 Overview  
+# 📱 MediCheck
 
-Medilocate helps users track their medications, identify potential drug interactions, and schedule reminders based on prescribed dosages. Using **Apple VisionKit** for image-to-text extraction and integrating **Gemini AI** and the **FDA API**, the app provides real-time insights on medications, ensuring user safety and adherence to prescriptions.  
-
----
-
-## 🛠 Features  
-
-### 📌 **User Enrollment**  
-- Users register with their **Date of Birth (DOB)**, **contraindications**, and **current medications**.  
-- User data is managed using `UserModel.ts`.  
-
-### 📸 **Medication Recognition**  
-- Users take a **picture** of the medication box or pill before consumption.  
-- **Apple VisionKit** extracts text from the image.  
-- The **Gemini AI API** processes the extracted text into a structured JSON format, including:  
-  - **Ingredients**  
-  - **Brand name**  
-  - **Generic name**  
-
-### 🏥 **FDA API Integration**  
-- The app fetches **metadata** on the scanned medication:  
-  - ✅ **Side effects**  
-  - 🔄 **Drug interactions**  
-  - 💊 **Dosage directions**  
-  - ⚠️ **Adverse reactions**  
-  - 🚨 **Warnings**  
-
-### 🗂 **Data Processing & Display**  
-- The app formats retrieved information into a **structured JSON**.  
-- If any **interactions** are found with the user's existing medications, an **alert** is triggered.  
-- All details are displayed in an **intuitive UI** for easy comprehension.  
-
-### ⏰ **Dosage Tracking & Reminders**  
-- Users can tap **“Take Now”** to log the medication.  
-- The app schedules reminders using **iCloud Calendar** based on **prescribed intervals**.  
-- The **UserController** updates medication records.  
+**MediCheck** is an iOS app that empowers users to manage their medications effectively by tracking usage, detecting potential drug interactions, and scheduling timely dosage reminders. By combining cutting-edge OCR, machine learning, and reliable FDA data, MediCheck delivers real-time, personalized insights for safer medication management.
 
 ---
 
-## 🏗 Tech Stack  
+## Key Features
 
-- **Swift** (iOS App)  
-- **Apple VisionKit** (OCR)  
-- **Google Gemini AI API** (Text Analysis)  
-- **FDA API** (Drug Information)  
-- **iCloud Calendar API** (Reminders)  
+- **User Enrollment:**  
+  - **Registration:** Users quickly sign up by providing essential details such as Date of Birth, gender, and pregnancy status.  
+  - **Medication History:** Capture current medications to create a personalized health profile.  
+  - **Data Security:** All user information is securely stored and managed with MongoDB, ensuring privacy and compliance.
+
+- **Medication Recognition:**  
+  - **Image Capture:** Users take a photo of the medication packaging or the pill itself using the device’s camera.  
+  - **OCR Processing:** Apple VisionKit extracts text from the image for further processing.  
+  - **NLP Integration:** Python’s Sentence Transformer converts the extracted text into semantic embeddings.  
+  - **Machine Learning Matching:** A combination of semantic and lexical similarity algorithms ensures accurate medication identification using learned weights.
+
+- **FDA API Integration:**  
+  - **Comprehensive Data Retrieval:** The app fetches detailed metadata about the scanned medication including:
+    - **Side Effects:** Lists common and rare side effects.
+    - **Drug Interactions:** Identifies potential interactions with other medications.
+    - **Dosage Directions:** Provides clear dosage instructions.
+    - **Adverse Reactions & Warnings:** Alerts users to possible adverse effects and important warnings.
+  - **Real-Time Updates:** Ensures that the information is current and in line with FDA standards.
+
+- **LLama3-8b Integration:**  
+  - **Personalized Analysis:** Leverages Llama3-8b to interpret and translate raw medication data into user-friendly information.  
+  - **Contextual Alerts:** Merges FDA API results with the user’s profile to generate tailored interaction warnings and dosage recommendations.
+  - **Bullet-Point Summaries:** Delivers concise, accessible insights to help users understand medication details quickly.
+
+- **Intuitive UI & Data Handling:**  
+  - **Structured Data Format:** Processes and organizes the retrieved information into a structured JSON format, simplifying further integration.  
+  - **Interaction Alerts:** Automatically triggers alerts if any dangerous interactions are detected with the user’s existing medications.  
+  - **User-Friendly Interface:** Presents all data in an intuitive, easy-to-navigate UI that enhances user experience and safety.
 
 ---
 
-## 🔧 Installation  
+## Tech Stack
 
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/jbaek1/medilocatev2.git
-   cd medilocatev2
-
-
+- **Swift:** iOS app development  
+- **Python:** FastAPI backend & ML algorithms  
+- **Apple VisionKit:** OCR for medication image processing  
+- **Llama3-8b:** Advanced text analysis and personalized data translation  
+- **AWS SageMaker:** Cloud hosting and scalable application management  
+- **FDA API:** Access to up-to-date, reliable drug information  
+- **MongoDB:** Secure management of user profiles and medication databases
