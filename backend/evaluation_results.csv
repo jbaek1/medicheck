@@ -1,0 +1,2181 @@
+Medication,Age,Pregnancy,Gender,Generated_Text,Rouge1_Recall,Rouge2_Recall,RougeL_Recall,BERT_Precision,BERT_Recall,BERT_F1,FleschKincaid_Grade,FactCC_Consistency
+Acetaminophen,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,7,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,7,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,12,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,12,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,20,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,20,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,20,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,60,Yes,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,60,No,Male,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
+Acetaminophen,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Acetaminophen 500 mg
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+  • Do not take more than directed
+  • Adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last
+  • Do not take more than 6 caplets in 24 hours, unless directed by a doctor
+  • Do not use for more than 10 days unless directed by a doctor
+  • Children under 12 years: ask a doctor
+• **Adverse Ingredients:** 
+  • If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist
+  • If you have ever had an allergic reaction to this product or any of its ingredients
+• **Warnings/Adverse Reactions:**
+  • Liver warning: severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, with other drugs containing acetaminophen, or 3 or more alcoholic drinks every day while using this product
+  • Allergy alert: acetaminophen may cause severe skin reactions, including skin reddening, blisters, and rash
+  • Ask a doctor before use if you have liver disease
+  • Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  • Stop use and ask a doctor if pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, new symptoms occur, or redness or swelling is present
+  • If pregnant or breast-feeding, ask a health professional before use",0.5550239234449761,0.486810551558753,0.38995215311004783,0.35439246892929077,0.3038577139377594,0.33009272813796997,97.3,0.0
+Ibuprofen,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** [Insert Name of the Drug]
+• **Ingredients:** Ibuprofen USP, 200 mg (NSAID)
+• **Purpose and Usage:** Pain reliever/fever reducer
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist
+	+ Do not exceed 6 tablets in 24 hours, unless directed by a doctor
+	+ Children under 12 years: ask a doctor
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have:
+	+ Stomach problems, such as heartburn
+	+ High blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+	+ Are taking a diuretic
+	+ Problems or serious side effects from taking pain relievers or fever reducers
+• **Warnings/Adverse Reactions:**
+	+ Allergy alert: may cause severe allergic reaction, especially in people allergic to aspirin
+	+ Stomach bleeding warning: may cause severe stomach bleeding, especially if taking more or for a longer time than directed
+	+ Heart attack and stroke warning: may increase the risk of heart attack, heart failure, and stroke
+	+ Stop use and ask a doctor if you experience:
+		- Faintness
+		- Bloody or black stools
+		- Vomiting blood
+		- Stomach pain that does not get better
+		- Symptoms of heart problems or stroke: chest pain, slurred speech, leg swelling, trouble breathing, weakness in one part or side of body
+		- Pain gets worse or lasts more than 10 days
+		- Fever gets worse or lasts more than 3 days
+		- Redness or swelling is present in the painful area
+		- Any new symptoms appear",0.3185595567867036,0.2635228848821082,0.19529085872576177,0.0626581460237503,0.08704873919487,0.0763271301984787,96.5,1.0
+Fexofenadine,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Fexofenadine HCl
+• **Ingredients:** Fexofenadine HCl USP, 180 mg
+• **Purpose and Usage:** Antihistamine for relieving hives and itching
+• **Dosage and Administration:**
+	+ Adults and children 12 years and over: take 1 tablet with water once a day
+	+ Do not take more than 1 tablet in 24 hours
+	+ Children under 12 years: do not use
+	+ Adults 65 years and older: ask a doctor
+	+ Consumers with kidney disease: ask a doctor
+• **Adverse Ingredients:**
+	+ Ask doctor or pharmacist if you have kidney disease
+	+ Ask doctor or pharmacist if you have hives that are an unusual color, look bruised or blistered
+	+ Ask doctor or pharmacist if you have hives that do not itch
+• **Warnings/Adverse Reactions:**
+	+ Severe Allergy Warning: get emergency help if you have hives with trouble swallowing, dizziness or loss of consciousness, swelling of tongue, swelling in or around mouth, trouble speaking, wheezing or problems breathing, or drooling
+	+ Not a substitute for epinephrine injector; carry epinephrine injector with you at all times if prescribed
+	+ May not prevent hives from known causes (foods, insect stings, medicines, latex or rubber gloves)",0.4628099173553719,0.3287292817679558,0.2231404958677686,0.1906852275133133,0.031050631776452065,0.11104825139045715,75.4,1.0
+Claritin,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** Loratadine
+• **Ingredients:** Loratadine 5 mg
+• **Purpose and Usage:** Antihistamine for relief of allergy symptoms
+• **Dosage and Administration:**
+	+ Adults and children 6 years and over: Chew 2 tablets daily, not more than 2 in 24 hours
+	+ Children 2 to under 6 years: Chew 1 tablet daily, not more than 1 in 24 hours
+	+ Children under 2 years: Ask a doctor
+	+ Chew or crush tablets completely before swallowing
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have liver or kidney disease
+• **Warnings/Adverse Reactions:**
+	+ Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+	+ Ask a doctor before use if you have liver or kidney disease
+	+ Taking more than directed may cause drowsiness
+	+ Stop use and ask a doctor if an allergic reaction occurs
+	+ Seek medical help right away if an allergic reaction occurs
+	+ If pregnant or breast-feeding, ask a health professional before use
+	+ Keep out of reach of children
+	+ In case of overdose, get medical help or contact a Poison Control Center right away",0.6287878787878788,0.532319391634981,0.36742424242424243,0.23862245678901672,0.3068374991416931,0.2736899256706238,74.3,1.0
+Hydrocortisone,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Hydrocortisone USP 1%
+• **Purpose and Usage:** Antipruritic (Anti-Itch) for external use only
+• **Dosage and Administration:**
+  • Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily
+  • Children under 2 years of age: Consult a doctor
+  • When used for anal itching, cleanse the affected area with mild soap and warm water and rinse thoroughly
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have any questions about ingredients
+• **Warnings/Adverse Reactions:**
+  • Do not use in the eyes, for diaper rash, or for external genital or feminine itching if you have a vaginal discharge
+  • Do not use more than the recommended daily dosage unless directed by a doctor
+  • Do not use in the rectum by using fingers or any mechanical device or applicator
+  • Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+  • Bleeding occurs due to anal itching",0.5491525423728814,0.47619047619047616,0.3152542372881356,0.3221747875213623,0.2536490261554718,0.288843035697937,71.5,0.0
+Dextromethorphan,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** (Not specified)
+• **Ingredients:** 
+  • Active Ingredient: (Not specified)
+  • Other ingredients: brompheniramine maleate, pseudoephedrine hydrochloride, dextromethorphan hydrobromide
+• **Purpose and Usage:** 
+  • Relieves symptoms of colds, allergies, and hay fever
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: 10 mL (2 teaspoonfuls) every 4 hours
+  • Children 6 to under 12 years: 5 mL (1 teaspoonful) every 4 hours
+  • Children 2 to under 6 years: 2.5 mL (½ teaspoonful) every 4 hours
+  • Infants 6 months to under 2 years: Dosage to be established by a physician
+  • Do not exceed 6 doses in 24 hours
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist about potential interactions with:
+    • Monoamine oxidase inhibitors (MAOI)
+    • CNS depressants (alcohol, hypnotics, sedatives, tranquilizers, antianxiety agents)
+    • Antihypertensive drugs
+• **Warnings/Adverse Reactions:**
+  • Especially in infants and small children, antihistamines in overdosage may cause hallucinations, convulsions, and death
+  • May diminish mental alertness
+  • May produce excitation in young children
+  • May interact with MAOI and cause hyperpyrexia, hypotension, and death
+  • May interact with CNS depressants and cause additive effects
+  • May interact with antihypertensive drugs and reduce their effects",0.665158371040724,0.45454545454545453,0.35294117647058826,0.24115954339504242,0.2773662507534027,0.2604043185710907,42.1,0.0
+Pseudoephedrine,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Pseudoephedrine HCl, USP 120 mg
+• **Purpose and Usage:** Nasal decongestant for relieving nasal congestion
+• **Dosage and Administration:**
+  • Adults and children 12 years and over: Take 1 tablet every 12 hours
+  • Do not take more than 2 tablets in 24 hours
+  • Children under 12 years: Do not use this product
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Heart disease
+    • High blood pressure
+    • Thyroid disease
+    • Diabetes
+    • Trouble urinating due to an enlarged prostate gland
+• **Warnings/Adverse Reactions:**
+  • Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) or for 2 weeks after stopping the MAOI drug
+  • Stop use and ask a doctor if:
+    • Nervousness
+    • Dizziness
+    • Sleeplessness occur
+    • Symptoms do not improve within 7 days or occur with a fever
+  • In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)",0.43573667711598746,0.3710691823899371,0.25705329153605017,0.21149805188179016,0.24501283466815948,0.22945533692836761,61.8,0.0
+Bismuth,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Bismuth subsalicylate 262 mg (102 mg salicylate)
+• **Purpose and Usage:** 
+  • Treats diarrhea and heartburn
+  • Relieves symptoms of indigestion and nausea
+• **Dosage and Administration:**
+  • Adults and children over 12 years: 2 tablets every ½ hour or 4 tablets every hour as needed
+  • Children under 12 years: Ask a doctor
+  • Do not exceed 8 doses (16 tablets) in 24 hours
+• **Adverse Ingredients:**
+  • Ask doctor or pharmacist if you have:
+    • Ulcer
+    • Bleeding problem
+    • Bloody or black stool
+    • Fever
+    • Mucus in the stool
+    • Taking any drug for anticoagulation (thinning the blood)
+    • Diabetes
+    • Gout
+    • Arthritis
+• **Warnings/Adverse Reactions:**
+  • Do not use if you have an ulcer, bleeding problem, or bloody or black stool
+  • Reye’s syndrome: Do not use in children and teenagers who have or are recovering from chicken pox or flu-like symptoms
+  • Allergic reaction: Contains salicylate, do not take if you are allergic to salicylates
+  • Stop use and ask a doctor if symptoms get worse or last more than 2 days
+  • Temporary, harmless darkening of the stool and/or tongue may occur",0.4420485175202156,0.32972972972972975,0.215633423180593,0.162489652633667,0.16265909373760223,0.16393496096134186,73.9,0.0
+Diphenhydramine,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Diphenhydramine HCl 50 mg
+• **Purpose and Usage:** Nighttime sleep-aid
+• **Dosage and Administration:**
+  • Take only one dose (30 mL) per day
+  • Use dose cup provided
+  • Adults and children 12 years and over: 30 mL at bedtime if needed or as directed by a doctor
+  • Children under 12 years: Do not use
+• **Adverse Ingredients:** 
+  • Ask doctor or pharmacist if you have:
+    • Breathing problems (emphysema or chronic bronchitis)
+    • Glaucoma
+    • Difficulty in urination due to enlarged prostate gland
+  • Ask doctor or pharmacist if you are taking:
+    • Sedatives or tranquilizers
+• **Warnings/Adverse Reactions:** 
+  • Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+  • If pregnant or breast-feeding, ask a health professional before use",0.6666666666666666,0.5284090909090909,0.4011299435028249,0.23147991299629211,0.3809434473514557,0.30627864599227905,55.2,1.0
+guaifenesin,60,No,Female,"Here is the information in a personalized, bullet-point list:
+
+• **Drug Name:** 
+• **Ingredients:** Guaifenesin 1200 mg
+• **Purpose and Usage:** Expectorant to help relieve cough due to excess mucus
+• **Dosage and Administration:**
+  • Do not crush, chew, or break tablet
+  • Take with a full glass of water
+  • Can be taken with or without food
+  • Adults and children 12 years and over: 1 tablet every 12 hours, do not exceed 2 tablets in 24 hours
+  • Children under 12 years: do not use
+• **Adverse Ingredients:** Ask doctor or pharmacist if you have concerns
+• **Warnings/Adverse Reactions:**
+  • Do not use for children under 12 years of age
+  • Ask a doctor before use if you have a persistent or chronic cough, or cough with too much phlegm (mucus)
+  • If pregnant or breastfeeding, ask a health professional before use",0.6870748299319728,0.5068493150684932,0.48299319727891155,0.3093114197254181,0.325759619474411,0.3186315596103668,52.8,0.0
